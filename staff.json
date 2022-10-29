@@ -1,0 +1,9 @@
+[
+	{ "id":1 , "firstName":"John" , "middlename":null, "lastName":"Doe" },
+	{ "id":2 , "firstName":"Anna" , "middlename":"Maria", "lastName":"Smith" },
+	{ "id":3 , "firstName":"Peter" , "middlename":null, "lastName":"Jones" },
+	{ "id":4 , "firstName":"Endrju" , "middlename":"Goryl", "lastName":"Kokones" },
+	{ "id":5 , "firstName":"Pawian" , "middlename":"Alia", "lastName":"Ones" },
+	{ "id":6 , "firstName":"Saumuel" , "middlename":"", "lastName":"Jamal" },
+	{ "id":7 , "firstName":"Zibi" , "middlename":"Paw", "lastName":"Baras" }
+]
